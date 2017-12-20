@@ -1,0 +1,3 @@
+[submodule "gdip"]
+	path = gdip
+	url = https://github.com/mmikeww/AHKv2-Gdip.git
